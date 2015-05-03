@@ -1,0 +1,72 @@
+<!--<div onclick="window.open('trabalhos/email-mkt-varekai/varekai.html' , 'janela' , 'width=900 , height=900 , scrollbars=no')" class="div-link">
+			  <p class="infopost">
+				<strong>Descri&ccedil;&atilde;o:</strong> Email Marketing (divulga&ccedil;&atilde;o de benef&iacute;cios dos cart&otilde;es Bradesco).<br />
+				<strong>Ag&ecirc;ncia:</strong> One Digital | 2011<br />
+				<strong>Programa&ccedil;&atilde;o:</strong> Alberto Cerqueira
+			  
+			  </p>
+			  <div class="clr"></div>
+			  <div class="img"><img src="images/trabalhos/varekai.png" alt="" class="fl" /></div>
+		  </div>
+		  
+		  <div class="clr"></div>
+		  <br /><br /><br />
+		  
+		  <div onclick="window.open('trabalhos/email-mkt-bradesco-gold/bradesco-gold.html' , 'janela' , 'width=900 , height=900 , scrollbars=no')" class="div-link">
+			  <p class="infopost">
+				<strong>Descri&ccedil;&atilde;o:</strong> Email Marketing (divulga&ccedil;&atilde;o de benef&iacute;cios dos cart&otilde;es Bradesco).<br />
+				<strong>Ag&ecirc;ncia:</strong> One Digital | 2011<br />
+				<strong>Programa&ccedil;&atilde;o:</strong> Alberto Cerqueira
+			  
+			  </p>
+			  <div class="clr"></div>
+			  <div class="img"><img src="images/trabalhos/bradesco-gold.png" alt="" class="fl" /></div>
+		  </div>
+		  -->
+		  
+		  <!--
+		  <div class="clr"></div>
+		  <br /><br /><br />
+		  
+		  <div onclick="window.open('trabalhos/email-mkt-cash-by-phone/cash-by-phone.html' , 'janela' , 'width=900 , height=900 , scrollbars=no')" class="div-link">
+			  <p class="infopost">
+				<strong>Descri&ccedil;&atilde;o:</strong> Email Marketing (divulga&ccedil;&atilde;o de benef&iacute;cios dos cart&otilde;es Bradesco).<br />
+				<strong>Ag&ecirc;ncia:</strong> One Digital | 2011<br />
+				<strong>Programa&ccedil;&atilde;o:</strong> Alberto Cerqueira
+			  
+			  </p>
+			  <div class="clr"></div>
+			  <div class="img"><img src="images/trabalhos/cash-by-phone.png" alt="" class="fl" /></div>
+		  </div>
+		  -->
+
+		  
+		  <!--
+		  <div class="clr"></div>
+		  <br /><br /><br />
+		  
+		  <div onclick="window.open('http://www.bradescocartoes.com.br/Site/PF/' , 'janela' , 'width=900 , height=900 , scrollbars=no')" class="div-link">
+			  <p class="infopost">
+				<strong>Descri&ccedil;&atilde;o:</strong> Manuten&ccedil;&atilde;o/Atualiza&ccedil;&atilde;o Bradesco Cart&otilde;es.<br />
+				<strong>Ag&ecirc;ncia:</strong> One Digital<br />
+				<strong>Programa&ccedil;&atilde;o:</strong> Alberto Cerqueira
+			  
+			  </p>
+			  <div class="clr"></div>
+			  <div class="img"><img src="images/trabalhos/bradesco-cartoes.png" alt="" class="fl" /></div>
+		  </div>
+		  
+		  <div class="clr"></div>
+		  <br /><br /><br />
+		  
+		  <div onclick="window.open('http://www.bradescocartoes.com.br/Site/PF/PreCompensa' , 'janela' , 'width=900 , height=900 , scrollbars=no')" class="div-link">
+			  <p class="infopost">
+				<strong>Descri&ccedil;&atilde;o:</strong> Manuten&ccedil;&atilde;o/Atualiza&ccedil;&atilde;o Bradesco Cart&otilde;es PreCompensa.<br />
+				<strong>Ag&ecirc;ncia:</strong> One Digital<br />
+				<strong>Programa&ccedil;&atilde;o:</strong> Alberto Cerqueira
+			  
+			  </p>
+			  <div class="clr"></div>
+			  <div class="img"><img src="images/trabalhos/bradesco-pre-compensa.png" alt="" class="fl" /></div>
+		  </div>
+		  -->

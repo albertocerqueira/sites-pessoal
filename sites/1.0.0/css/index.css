@@ -1,0 +1,188 @@
+body {
+	margin:0;
+    padding:0;
+	background:#13223C;
+}
+			
+a {
+	text-decoration:none;
+}
+			
+.principal {
+	margin:0;
+	padding:0;
+	margin:auto;
+	width:1000px;				
+}
+			
+.menu {
+	height:28px;
+	margin:0;	
+	color:#B1B1B1;
+	margin:0;
+}
+			
+.menu a {
+	font-family:Arial;
+	font-size:9px;
+	color:#B1B1B1;
+}
+			
+.logo {
+	background:url(../images/fundo.jpg) 0 0;
+    height:150px;	
+}
+			
+.logo a {
+	float:right;
+    margin:0;
+	color:#778899;
+}
+			
+.logo-link {
+	height:100px;
+    width:100px;	
+	float:right;
+	margin:25px 40px 0 0;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;
+}
+			
+.logo-link:hover {
+	background:#13223C;
+}
+			
+.logo .logo-logo {
+	float:left;
+	font-family:Verdana;
+	font-size:35px;
+	color: PowderBlue;
+	margin:45px 80px 0;
+}
+			
+.logo-link span {
+	float: right;
+    margin: 39px 7px 0;
+    text-align: center;
+    width: 87px;
+}
+			
+.conteudo-cima {
+	background:url("../images/conteudo-fundo.jpg");
+	height:106px;
+}
+			
+.conteudo {
+	background:#f4f4f2;
+}
+
+.conteudo-itens {
+	float:right;
+	height:70px;
+	margin:32px 100px 0 0;
+	width:800px;
+	-moz-border-radius:35px;
+	-webkit-border-radius:35px;
+	border-radius:35px;
+	background:url(../images/fundo-campo-busca.jpg) 0 0;
+	color:#FFFFFF;
+}
+			
+.conteudo-itens input {
+	float:right;
+	margin:22px 20px 0 0;
+}
+		
+.conteudo-itens span {
+	float:left;
+	font-family:Lucida Console;
+	font-size:37px;
+	margin:14px 0 0 35px;
+}
+			
+.conteudo .conteudo-janela {
+	background:#fdfdfd;
+	clear:both;
+	height:250px;
+	width:250px;
+	-moz-border-radius:35px;
+	-webkit-border-radius:35px;
+	border-radius:35px;
+	margin:65px 50px 0 30px;
+	float:right;
+	clear:left;
+}
+			
+.conteudo .conteudo-janela:hover {
+	background:#666666;
+}
+			
+.conteudo .conteudo-janela img {
+	float:left;
+	height:150px;
+	margin:20px 0 0 50px;
+	width:150px;
+	border: medium none;
+}
+			
+.conteudo .conteudo-janela div {
+	clear:both;
+	float:right;
+	height:56px;
+	margin:10px 10px 0;
+	width:230px;
+	text-align: center;
+	color:#2D2D2D;
+}
+			
+.conteudo p {
+	clear:both;
+	margin:0 40px 25px;
+}
+			
+.conteudo-baixo {
+	background:url("../images/conteudo-fundo2.jpg");
+	height:106px;
+}
+			
+.rodape {
+	background:#2D2D2D;
+}
+
+.logo img {
+	width:500px;
+	height:150px;
+	opacity: 0.2;
+	margin-left:113px;
+	float:left;
+}
+
+.rodape-endereco {
+	width: 300px;
+}
+
+.rodape-endereco p {
+	margin: 0 0 0 100px;
+	color: #FFFFFF;
+    font-family: Comic Sans MS;
+}
+
+.rodape-endereco p:hover {
+	color:#CCCCCC;
+}
+
+input {
+	color:#ccc;
+}
+
+.enderecos {
+	color: #FFFFFF;
+    float: right;
+    margin: -70px 50px 0;
+}
+
+address a {
+	color: #CCCCCC;
+    text-decoration: underline;
+}

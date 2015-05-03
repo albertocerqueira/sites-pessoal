@@ -1,0 +1,16 @@
+.conteudo span {
+	font-family:Lucida Console;
+    font-size:larger;
+}
+
+.nome {
+	color:#CCCCCC;
+    font-family:Lucida Console;
+    font-size:25px;
+    font-weight:bold;
+}
+
+.conteudo p a {
+	color: #2D2D2D;
+    text-decoration: underline;
+}

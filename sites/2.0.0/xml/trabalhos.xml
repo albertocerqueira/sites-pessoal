@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TRABALHOS>
+	<TRABALHO>
+		<LINKURL>trabalhos/email-mkt-varekai/varekai.html</LINKURL>
+		<DESCRICAO>Email Marketing (divulgação de beneficios dos cartões Bradesco).</DESCRICAO>
+		<EMPRESA>Agencia One Digital | 2011</EMPRESA>
+		<PROGRAMADO>Alberto Cerqueira</PROGRAMADO>
+		<IMAGEURL>images/trabalhos/varekai.png</IMAGEURL>
+	</TRABALHO>
+	<TRABALHO>
+		<LINKURL>trabalhos/email-mkt-bradesco-gold/bradesco-gold.html</LINKURL>
+		<DESCRICAO>Email Marketing (divulgação de beneficios dos cartões Bradesco).</DESCRICAO>
+		<EMPRESA>Agencia One Digital | 2011</EMPRESA>
+		<PROGRAMADO>Alberto Cerqueira</PROGRAMADO>
+		<IMAGEURL>images/trabalhos/bradesco-gold.png</IMAGEURL>
+	</TRABALHO>
+	<TRABALHO>
+		<LINKURL>http://www.bradescocartoes.com.br/Site/PF/</LINKURL>
+		<DESCRICAO>Manutenção/Atualização Bradesco Cartões.</DESCRICAO>
+		<EMPRESA>Agencia One Digital</EMPRESA>
+		<PROGRAMADO>Alberto Cerqueira</PROGRAMADO>
+		<IMAGEURL>images/trabalhos/bradesco-cartoes.png</IMAGEURL>
+	</TRABALHO>
+	<TRABALHO>
+		<LINKURL>http://www.bradescocartoes.com.br/Site/PF/PreCompensa</LINKURL>
+		<DESCRICAO>Manutenção/Atualização Bradesco Cartões PreCompensa.</DESCRICAO>
+		<EMPRESA>Agencia One Digital</EMPRESA>
+		<PROGRAMADO>Alberto Cerqueira</PROGRAMADO>
+		<IMAGEURL>images/trabalhos/bradesco-pre-compensa.png</IMAGEURL>
+	</TRABALHO>
+</TRABALHOS>
